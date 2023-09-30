@@ -17,3 +17,6 @@ document.getElementById('aboutLink').addEventListener('click', function() {
   document.getElementById('aboutLink').addEventListener('click', function() {
     window.location.href = 'tentang.html';
   });
+document.getElementById('aboutLink').addEventListener('click', function() {
+    window.location.href = 'portofolio.html';
+  });
